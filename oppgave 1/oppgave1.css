@@ -1,0 +1,21 @@
+div{
+    border:black solid 2px;
+}
+
+.main{
+    width: 100%;
+    margin: auto;
+}
+
+.topp{
+    height: 100px;
+    text-align: center;
+}
+
+.innhold{
+    padding: 10px;
+}
+
+.fotter{
+    text-align: center;
+}
